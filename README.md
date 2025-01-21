@@ -1,6 +1,6 @@
 ![Logo](https://docs.hivo.ai/~gitbook/image?url=https%3A%2F%2F2606891579-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGEHVHcdT0adTfRfFAPoA%252Fuploads%252FGrfV7BGETpcttJyyVyUZ%252Fbg%2520%282%29.png%3Falt%3Dmedia%26token%3D1c535a4a-6044-4513-9975-aba0da3f7c74&width=376&dpr=2&quality=100&sign=48936ff9&sv=2)
 
-# HivoAI Framework - AI Agents for Blockchain  
+# HivoAI Framework - AI Agents for Solana  
 
 HivoAI is an **open-source framework** designed to simplify the **creation, deployment, and interaction** with AI-powered agents. With a **command-line interface (CLI)**, users can seamlessly manage AI-driven agents while leveraging **Solana blockchain** technology for decentralized automation.
 
